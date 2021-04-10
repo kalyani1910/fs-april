@@ -1,0 +1,24 @@
+<html>
+  <head>
+     <title>Flipkart - Profile page- Login form</title>
+  </head>
+  <body>
+     <h1>Login form</h1>
+     <form>
+        <label> User name or Email</label>
+        <input type="text" />
+        <br />
+        <label> Password</label>
+        <input type="Password" />
+        <br />
+
+
+        <button type="button">Login</button>
+     </form>
+    </body>
+</html>     
+
+  
+  
+  
+  </body>
